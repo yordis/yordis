@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Banner](./banner@3x.png)
+![Banner](https://github.com/yordis/yordis/blob/master/banner@3x.png)
