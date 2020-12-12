@@ -1,4 +1,21 @@
-### Hi there 👋
+## Hi there 👋
+
+### 🔭 I’m currently working on
+
+Primarily https://github.com/straw-hat-team organization, focused on React, Go, and Elixir ecosystem.
+
+### 💬 Ask me about
+
+  - React
+  - Elixir
+  - Software Architecture
+  - Event Sourcing and CQRS
+ 
+### 📫 How to reach me
+  
+  - Twitter: [@alchemist_ubi](https://twitter.com/alchemist_ubi)
+  - Linkedin: [Yordis Prieto](https://www.linkedin.com/in/yordisprieto/)
+  - Email: yordis.prieto@gmail.com
 
 <!--
 **yordis/yordis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
