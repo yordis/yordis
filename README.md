@@ -2,14 +2,15 @@
 
 ### 🔭 I’m currently working on
 
-Primarily, on [straw-hat-team](https://github.com/straw-hat-team) organization, focused on React, Go, and Elixir ecosystem. Check it out!
+Primarily, on [straw-hat-team](https://github.com/straw-hat-team) organization, focused on React, Go, and Elixir ecosystem. Check my work out!
 
 ### 💬 Ask me about
 
   - React
   - Elixir
+  - Go
   - Software Architecture
-  - Event Sourcing and CQRS
+  - Domain-Driven Design (DDD), Event Sourcing (ES), and Command Query Responsibility Segregation (CQRS)
  
 ### 📫 How to reach me
   
@@ -26,8 +27,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
