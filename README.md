@@ -9,7 +9,8 @@ Primarily, on [straw-hat-team](https://github.com/straw-hat-team) organization, 
   - React
   - Elixir
   - Go
-  - Software Architecture
+  - Software Architecture Design
+  - Distributed Systems
   - Domain-Driven Design (DDD), Event Sourcing (ES), and Command Query Responsibility Segregation (CQRS)
  
 ### 📫 How to reach me
