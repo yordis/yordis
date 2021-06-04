@@ -11,12 +11,14 @@ Primarily, on [straw-hat-team](https://github.com/straw-hat-team) organization, 
   - Go
   - Software Architecture Design
   - Distributed Systems
-  - Domain-Driven Design (DDD), Event Sourcing (ES), and Command Query Responsibility Segregation (CQRS)
+  - Domain-Driven Design (DDD)
+  - Event Sourcing (ES)
+  - Command Query Responsibility Segregation (CQRS)
  
 ### 📫 How to reach me
   
   - Twitter: [@alchemist_ubi](https://twitter.com/alchemist_ubi)
-  - Linkedin: [Yordis Prieto](https://www.linkedin.com/in/yordisprieto/)
+  - LinkedIn: [Yordis Prieto](https://www.linkedin.com/in/yordisprieto/)
   - Email: yordis.prieto@gmail.com
 
 <!--
