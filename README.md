@@ -10,6 +10,7 @@ Primarily, on [straw-hat-team](https://github.com/straw-hat-team) organization, 
   - Elixir
   - Go
   - Software Architecture Design
+  - Event-Driven Architecture
   - Distributed Systems
   - Domain-Driven Design (DDD)
   - Event Sourcing (ES)
