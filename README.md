@@ -2,7 +2,7 @@
 
 ### 🔭 I’m currently working on
 
-Primarily, on [straw-hat-team](https://github.com/straw-hat-team) organization, focused on React, Go, and Elixir ecosystem. Check my work out!
+Primarily, on [straw-hat-team](https://github.com/straw-hat-team) organization, focused on React, and Elixir ecosystem. Check my work out!
 
 ### 💬 Ask me about
 
