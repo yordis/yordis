@@ -22,6 +22,8 @@ Primarily, on [straw-hat-team](https://github.com/straw-hat-team) organization, 
   - LinkedIn: [Yordis Prieto](https://www.linkedin.com/in/yordisprieto/)
   - Email: yordis.prieto@gmail.com
 
+![Yordis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yordis&show_icons=true)
+
 <!--
 **yordis/yordis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
