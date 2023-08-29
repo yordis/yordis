@@ -3,7 +3,7 @@
 
 ### 🔭 I’m currently working on
 
-Primarily, on [straw-hat-team](https://github.com/straw-hat-team) organization, focused on the React, and Elixir ecosystem. Check my work out!
+Primarily, on [straw-hat-team](https://github.com/straw-hat-team) organization, focused on the React, Elixir, Rust, Go, and WASM ecosystem. Check out my work out!
 
 ### 💬 Ask me about
 
@@ -22,6 +22,10 @@ Primarily, on [straw-hat-team](https://github.com/straw-hat-team) organization, 
   - Twitter: [@alchemist_ubi](https://twitter.com/alchemist_ubi)
   - LinkedIn: [Yordis Prieto](https://www.linkedin.com/in/yordisprieto/)
   - Email: yordis.prieto@gmail.com
+
+### 🌱 I’m currently learning
+
+- [wasmcloud](https://wasmcloud.com/)
 
 ![Yordis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yordis&show_icons=true)
 
