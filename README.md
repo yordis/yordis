@@ -3,29 +3,32 @@
 
 ### 🔭 I’m currently working on
 
-Primarily, on [straw-hat-team](https://github.com/straw-hat-team) organization, focused on the React, Elixir, Rust, Go, and WASM ecosystem. Check out my work out!
+Primarily, on [straw-hat-team](https://github.com/straw-hat-team) organization, focused on the React, Elixir, Rust, Go, and WASM ecosystem. Check out my workout!
 
 ### 💬 Ask me about
 
-  - React
-  - Elixir
-  - Go
-  - Software Architecture Design
-  - Event-Driven Architecture
-  - Distributed Systems
-  - Domain-Driven Design (DDD)
-  - Event Sourcing (ES)
-  - Command Query Responsibility Segregation (CQRS)
+- Event Modeling
+- React
+- Elixir
+- Go
+- Software Architecture Design
+- Event-Driven Architecture
+- Distributed Systems
+- Domain-Driven Design (DDD)
+- Event Sourcing (ES)
+- Command Query Responsibility Segregation (CQRS)
  
 ### 📫 How to reach me
   
-  - Twitter: [@alchemist_ubi](https://twitter.com/alchemist_ubi)
-  - LinkedIn: [Yordis Prieto](https://www.linkedin.com/in/yordisprieto/)
-  - Email: yordis.prieto@gmail.com
+- Twitter: [@alchemist_ubi](https://twitter.com/alchemist_ubi)
+- LinkedIn: [Yordis Prieto](https://www.linkedin.com/in/yordisprieto/)
+- Email: yordis.prieto@gmail.com
+- Book a Mentoring Meeting: [cal.com/yordis/mentoring](https://cal.com/yordis/mentoring)
 
 ### 🌱 I’m currently learning
 
 - [wasmcloud](https://wasmcloud.com/)
+- [WebAssembly](https://webassembly.org/)
 
 ![Yordis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yordis&show_icons=true)
 
