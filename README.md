@@ -24,6 +24,7 @@ Primarily, on [straw-hat-team](https://github.com/straw-hat-team) organization, 
 - LinkedIn: [Yordis Prieto](https://www.linkedin.com/in/yordisprieto/)
 - Email: yordis.prieto@gmail.com
 - Book a Mentoring Meeting: [cal.com/yordis/mentoring](https://cal.com/yordis/mentoring)
+- Book an Event Modeling Meeting: [cal.com/yordis/eventmodeling](https://cal.com/yordis/eventmodeling)
 
 ### 🌱 I’m currently learning
 
