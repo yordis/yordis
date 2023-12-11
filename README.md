@@ -33,7 +33,9 @@ Primarily, on [straw-hat-team](https://github.com/straw-hat-team) organization, 
 - [wasmcloud](https://wasmcloud.com/)
 - [WebAssembly](https://webassembly.org/)
 
-![Yordis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yordis&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yordis&show_icons=true&theme=transparent)
+<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yordis&show_icons=true&theme=transparent&layout=compact)
 
 <!--
 **yordis/yordis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
