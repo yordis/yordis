@@ -24,7 +24,6 @@ Primarily, on [straw-hat-team](https://github.com/straw-hat-team) organization, 
 - Twitter: [@alchemist_ubi](https://twitter.com/alchemist_ubi)
 - LinkedIn: [Yordis Prieto](https://www.linkedin.com/in/yordisprieto/)
 - Email: yordis.prieto@gmail.com
-- Book a Mentoring Meeting: [cal.com/yordis/mentoring](https://cal.com/yordis/mentoring)
 - Book an Event Modeling Meeting: [cal.com/yordis/eventmodeling](https://cal.com/yordis/eventmodeling)
 - Straw Hat Team Community Discord: [Straw Hat Team Community](https://discord.gg/5WURzBb)
 
