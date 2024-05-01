@@ -3,7 +3,7 @@
 
 ### 🔭 I’m currently working on
 
-Primarily, on [straw-hat-team](https://github.com/straw-hat-team) organization, focused on the React, Elixir, Rust, Go, and WASM ecosystem. Check out my workout!
+Primarily, on [straw-hat-team](https://github.com/straw-hat-team) organization, focused on the React, Elixir, Rust, Go, and WASM ecosystem. Check out my work!
 
 ### 💬 Ask me about
 
