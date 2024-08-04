@@ -3,25 +3,23 @@
 
 ### 🔭 I’m currently working on
 
-Primarily, on [straw-hat-team](https://github.com/straw-hat-team) organization, focused on the React, Elixir, Rust, Go, and WASM ecosystem. Check out my work!
+I primarily work on the [straw-hat-team](https://github.com/straw-hat-team) organization, which is focused on the React, Elixir, Rust, Go, and WASM ecosystems. Check out my work!
 
 ### 💬 Ask me about
 
-- Event Modeling
-- React
-- Elixir
-- Go
-- Software Architecture Design
+- Elixir, Go, React
 - Event-Driven Architecture
+- Software Architecture and System Design
 - Distributed Systems
 - Domain-Driven Design (DDD)
 - Event Sourcing (ES)
 - Command Query Responsibility Segregation (CQRS)
+- Event Modeling
  
 ### 📫 How to reach me
 
 - YouTube: [@alchemistubi](https://www.youtube.com/@alchemistubi)
-- Twitter: [@alchemist_ubi](https://twitter.com/alchemist_ubi)
+- Twitter: [@yordisprieto](https://twitter.com/yordisprieto)
 - LinkedIn: [Yordis Prieto](https://www.linkedin.com/in/yordisprieto/)
 - Email: yordis.prieto@gmail.com
 - Book an Event Modeling Meeting: [cal.com/yordis/eventmodeling](https://cal.com/yordis/eventmodeling)
@@ -32,9 +30,9 @@ Primarily, on [straw-hat-team](https://github.com/straw-hat-team) organization, 
 - [wasmcloud](https://wasmcloud.com/)
 - [WebAssembly](https://webassembly.org/)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yordis&show_icons=true&theme=transparent)
-<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yordis&show_icons=true&theme=transparent&layout=compact)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yordis&theme=nord_dark)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yordis&theme=nord_dark)
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yordis&theme=nord_dark)
 
 <!--
 **yordis/yordis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
