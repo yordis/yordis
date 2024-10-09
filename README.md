@@ -32,7 +32,7 @@ I primarily work on the [straw-hat-team](https://github.com/straw-hat-team) orga
 
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yordis&theme=nord_dark)
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yordis&theme=nord_dark)
-![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yordis&theme=nord_dark&exclude=lua)
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yordis&theme=nord_dark&exclude=lua,MDX,shell,Markdown)
 
 <!--
 **yordis/yordis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
