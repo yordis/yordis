@@ -18,7 +18,7 @@ I primarily work on the [straw-hat-team](https://github.com/straw-hat-team) orga
  
 ### 📫 How to reach me
 
-- YouTube: [@alchemistubi](https://www.youtube.com/@alchemistubi)
+- YouTube: [@yordisbytecode](https://www.youtube.com/@yordisbytecode)
 - Twitter: [@yordisprieto](https://twitter.com/yordisprieto)
 - LinkedIn: [Yordis Prieto](https://www.linkedin.com/in/yordisprieto/)
 - Email: yordis.prieto@gmail.com
