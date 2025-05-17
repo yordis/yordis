@@ -1,10 +1,5 @@
 <h1 align="center">Hi there, I'm Yordis Prieto 👋</h1>
 
-
-### 🔭 I’m currently working on
-
-I primarily work on the [straw-hat-team](https://github.com/straw-hat-team) organization, which is focused on the React, Elixir, Rust, Go, and WASM ecosystems. Check out my work!
-
 ### 💬 Ask me about
 
 - Elixir, Go, React
@@ -18,12 +13,7 @@ I primarily work on the [straw-hat-team](https://github.com/straw-hat-team) orga
  
 ### 📫 How to reach me
 
-- YouTube: [@yordisbytecode](https://www.youtube.com/@yordisbytecode)
-- Twitter: [@yordisprieto](https://twitter.com/yordisprieto)
-- LinkedIn: [Yordis Prieto](https://www.linkedin.com/in/yordisprieto/)
-- Email: yordis.prieto@gmail.com
-- Book an Event Modeling Meeting: [cal.com/yordis/eventmodeling](https://cal.com/yordis/eventmodeling)
-- Straw Hat Team Community Discord: [Straw Hat Team Community](https://discord.gg/5WURzBb)
+Check https://yordisprieto.com/social
 
 ### 🌱 I’m currently learning
 
