@@ -2,7 +2,7 @@
 
 ### 💬 Ask me about
 
-- Elixir, Go, React
+- Elixir, Rust, Go, React/Next.js
 - Event-Driven Architecture
 - Software Architecture and System Design
 - Distributed Systems
