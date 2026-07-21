@@ -20,10 +20,6 @@ Check https://yordisprieto.com/social
 - [wasmcloud](https://wasmcloud.com/)
 - [WebAssembly](https://webassembly.org/)
 
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yordis&theme=github_dark)
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yordis&theme=github_dark)
-![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yordis&theme=github_dark&exclude=lua,MDX,shell,Markdown)
-
 <!--
 **yordis/yordis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
